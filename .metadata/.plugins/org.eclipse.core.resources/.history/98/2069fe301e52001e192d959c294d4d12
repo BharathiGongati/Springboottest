@@ -1,0 +1,6 @@
+package org.jsp.reservationapp.Controller;
+
+public class AdminController {
+	
+
+}

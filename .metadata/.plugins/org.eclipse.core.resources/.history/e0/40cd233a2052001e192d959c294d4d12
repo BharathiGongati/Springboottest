@@ -1,0 +1,6 @@
+package org.jsp.reservation.repository;
+
+public interface AdminRepository extends JpaRepository<Admin, Integer>{
+	
+
+}
